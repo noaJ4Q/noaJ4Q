@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Noe Jara</h1>
+<h3 align="center">Telecommunication Engineering student passionate about backend developer from Peru</h3>
 
 <!--
 **noaJ4Q/noaJ4Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
